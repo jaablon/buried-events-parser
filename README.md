@@ -101,5 +101,6 @@ The body-text classifier was extracted from [FilingFirehose](https://filingfireh
 If you want this running 24/7 with alerts, the full archive, and the body-text classifier already wired into 10+ years of filings, FilingFirehose has all of that. The classifier itself, though, lives here — free for anyone to use, fork, audit, or replace.
 
 → [FilingFirehose homepage](https://filingfirehose.com)
+→ [Join the FilingFirehose Discord](https://discord.gg/5B3jCXv4sr) — real-time SEC alerts in chat, free
 → [Read 10 free sample $49 AI Reports](https://filingfirehose.com/reports/samples)
 → [The Founder Lifetime offer](https://filingfirehose.com/founder) ($99 one-time, every product forever)
